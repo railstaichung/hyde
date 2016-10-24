@@ -7,15 +7,15 @@ permalink:        pretty
 
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            Rails Taichung
+tagline:          '成群、程設、乘就'
+description:      '一個人練功太苦悶，一群人聚會有神助'
+url:              https://rails-taichung.com
 baseurl:          /
 
 author:
-  name:           'Rails 週刊'
-  url:            https://rails-taichung.github.com/
+  name:           'Rails Taichung'
+  url:            https://rails-taichung.com
 
 paginate:         5
 
