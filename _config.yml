@@ -4,7 +4,7 @@ highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
+
 
 # Setup
 title:            Hyde
@@ -23,4 +23,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://rails-taichung.github.com/
+  repo:           https://railstaichung.github.com/
