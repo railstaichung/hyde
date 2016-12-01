@@ -4,7 +4,7 @@ comments: true
 title: Rails-Taichung 11月份更新
 ---
 
-# Kenny
+# koei1025
 #52[修改Event Show view](https://github.com/railstaichung/rails-taichung/pull/52)
 #51[Beef View告一個段落](https://github.com/railstaichung/rails-taichung/pull/51)
 #50[Fix image丟錯](https://github.com/railstaichung/rails-taichung/pull/50)
