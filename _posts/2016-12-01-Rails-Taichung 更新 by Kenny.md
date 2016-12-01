@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: Rails-Taichung 11月份更新
+title: Rails-Taichung 11月份更新
 ---
 
 # Kenny
