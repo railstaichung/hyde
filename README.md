@@ -1,118 +1,46 @@
-# Hyde
+# Rails Taichung
 
-Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+Rails Taichung 是每週一次的台中 Rails 同好分享聚會
 
-![Hyde screenshot](https://f.cloud.github.com/assets/98681/1831228/42af6c6a-7384-11e3-98fb-e0b923ee0468.png)
+主題包含 Javascript, Ruby on Rails, HTML, CSS, Devops, web tools, library
 
+每週將邀請2位講者、2個主題，每位30分鐘~1小時 ( 含Q&A )
 
-## Contents
+任何想聽的主題，都可以在[這裡](https://github.com/railstaichung/railstaichung.github.io/issues)許願，或『回覆 __+1__』
 
-- [Usage](#usage)
-- [Options](#options)
-  - [Sidebar menu](#sidebar-menu)
-  - [Sticky sidebar content](#sticky-sidebar-content)
-  - [Themes](#themes)
-  - [Reverse layout](#reverse-layout)
-- [Development](#development)
-- [Author](#author)
-- [License](#license)
+若願意對[這些](https://github.com/railstaichung/railstaichung.github.io/issues)主題做分享的話，請[與我聯絡](https://m.me/leo424y)
 
+我們會邀請有相關經驗的人來分享該主題
 
-## Usage
+除了主題分享之外，大家對於有興趣研究的技術項目可以參與各個 [**線上讀書會**](https://goo.gl/mQbjWw)，一起組團打怪!
 
-Hyde is a theme built on top of [Poole](https://github.com/poole/poole), which provides a fully furnished Jekyll setup—just download and start the Jekyll server. See [the Poole usage guidelines](https://github.com/poole/poole#usage) for how to install and use Jekyll.
+## 加入RT聊天群組
+[Slack](https://rortc.herokuapp.com/) /  [Gitter](https://gitter.im/railstaichung/) /
+[官網](http://rails-taichung.com/) / [社團](https://www.facebook.com/groups/RORTaichung/) / [聯絡我們](mailto:rails.taichung@gmail.com)
 
+加入聊天群組方便與講師及其它參與者討論 WTT 的主題內容 (以及.. 優先取得報名連結)
 
-## Options
+## 場次及主題
+時間: 每週四晚上 6:30 - 8:30
 
-Hyde includes some customizable options, typically applied via classes on the `<body>` element.
+地點:
 
+價錢: Free
 
-### Sidebar menu
+## 未來主題
 
-Create a list of nav links in the sidebar by assigning each Jekyll page the correct layout in the page's [front-matter](http://jekyllrb.com/docs/frontmatter/).
+日期|講者|主題|資源
+----|----|----|----
+11/8|||
+||未定- [我可以分享](http://m.me/leo424y)|
+||未定- [我可以分享](http://m.me/leo424y)|
+||未定- [我可以分享](http://m.me/leo424y)|
 
-```
----
-layout: page
-title: About
----
-```
-
-**Why require a specific layout?** Jekyll will return *all* pages, including the `atom.xml`, and with an alphabetical sort order. To ensure the first link is *Home*, we exclude the `index.html` page from this list by specifying the `page` layout.
+邀請中:
 
 
-### Sticky sidebar content
+## 過往主題
 
-By default Hyde ships with a sidebar that affixes it's content to the bottom of the sidebar. You can optionally disable this by removing the `.sidebar-sticky` class from the sidebar's `.container`. Sidebar content will then normally flow from top to bottom.
-
-```html
-<!-- Default sidebar -->
-<div class="sidebar">
-  <div class="container sidebar-sticky">
-    ...
-  </div>
-</div>
-
-<!-- Modified sidebar -->
-<div class="sidebar">
-  <div class="container">
-    ...
-  </div>
-</div>
-```
-
-
-### Themes
-
-Hyde ships with eight optional themes based on the [base16 color scheme](https://github.com/chriskempson/base16). Apply a theme to change the color scheme (mostly applies to sidebar and links).
-
-![Hyde in red](https://f.cloud.github.com/assets/98681/1831229/42b0b354-7384-11e3-8462-31b8df193fe5.png)
-
-There are eight themes available at this time.
-
-![Hyde theme classes](https://f.cloud.github.com/assets/98681/1817044/e5b0ec06-6f68-11e3-83d7-acd1942797a1.png)
-
-To use a theme, add anyone of the available theme classes to the `<body>` element in the `default.html` layout, like so:
-
-```html
-<body class="theme-base-08">
-  ...
-</body>
-```
-
-To create your own theme, look to the Themes section of [included CSS file](https://github.com/poole/hyde/blob/master/public/css/hyde.css). Copy any existing theme (they're only a few lines of CSS), rename it, and change the provided colors.
-
-### Reverse layout
-
-![Hyde with reverse layout](https://f.cloud.github.com/assets/98681/1831230/42b0d3ac-7384-11e3-8d54-2065afd03f9e.png)
-
-Hyde's page orientation can be reversed with a single class.
-
-```html
-<body class="layout-reverse">
-  ...
-</body>
-```
-
-
-## Development
-
-Hyde has two branches, but only one is used for active development.
-
-- `master` for development.  **All pull requests should be submitted against `master`.**
-- `gh-pages` for our hosted site, which includes our analytics tracking code. **Please avoid using this branch.**
-
-
-## Author
-
-**Mark Otto**
-- <https://github.com/mdo>
-- <https://twitter.com/mdo>
-
-
-## License
-
-Open sourced under the [MIT license](LICENSE.md).
-
-<3
+日期|講者|主題|資源
+----|----|----|----
+11/8|||
