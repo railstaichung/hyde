@@ -31,7 +31,7 @@ Rails Taichung 是每週一次的台中 Rails 同好分享聚會
 
 日期|講者|主題|資源
 ----|----|----|----
-11/8A|[阿翔](https://github.com/leo424y)|THUNK MIDDLEWARE好棒棒|(https://hackmd.io/p/BJK_6RGXl)|
+11/8A|[阿翔](https://github.com/leo424y)|THUNK MIDDLEWARE好棒棒|[PPT](https://hackmd.io/p/BJK_6RGXl)|
 11/8B|[Maso](https://github.com/masolin)|Introduction to GraphQL with Ruby||
 11/15A||未定- [我可以分享](https://taichangrormeetup.slack.com)|
 11/15B||未定- [我可以分享](https://taichangrormeetup.slack.com)|
