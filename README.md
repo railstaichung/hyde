@@ -15,10 +15,10 @@ Rails Taichung 是每週一次的台中 Rails 同好分享聚會
 除了主題分享之外，大家對於有興趣研究的技術項目可以參與各個 [**線上讀書會**](https://goo.gl/mQbjWw)，一起組團打怪!
 
 ## 加入RT聊天群組
-[Slack](https://rortc.herokuapp.com/) /  [Gitter](https://gitter.im/railstaichung/) /
-[官網](http://rails-taichung.com/) / [社團](https://www.facebook.com/groups/RORTaichung/) / [聯絡我們](mailto:rails.taichung@gmail.com)
+加入 Slack 方便講師及其它參與者討論的主題內容→[Slack](https://rortc.herokuapp.com/) 
 
-加入聊天群組方便與講師及其它參與者討論 WTT 的主題內容 (以及.. 優先取得報名連結)
+[Gitter](https://gitter.im/railstaichung/) /
+[官網](http://rails-taichung.com/) / [社團](https://www.facebook.com/groups/RORTaichung/) / [聯絡我們](mailto:rails.taichung@gmail.com)
 
 ## 場次及主題
 時間: 每週四晚上 6:30 - 8:30
@@ -31,8 +31,8 @@ Rails Taichung 是每週一次的台中 Rails 同好分享聚會
 
 日期|講者|主題|資源
 ----|----|----|----
-11/8A||未定- [我可以分享](https://gitter.im/railstaichung/)|
-11/8B||未定- [我可以分享](https://gitter.im/railstaichung/)|
+11/8A||未定- [我可以分享](https://taichangrormeetup.slack.com)|
+11/8B||未定- [我可以分享](https://taichangrormeetup.slack.com)|
 
 邀請中:
 
