@@ -31,10 +31,8 @@ Rails Taichung 是每週一次的台中 Rails 同好分享聚會
 
 日期|講者|主題|資源
 ----|----|----|----
-11/8|||
-||未定- [我可以分享](http://m.me/leo424y)|
-||未定- [我可以分享](http://m.me/leo424y)|
-||未定- [我可以分享](http://m.me/leo424y)|
+11/8A||未定- [我可以分享](https://gitter.im/railstaichung/)|
+11/8B||未定- [我可以分享](https://gitter.im/railstaichung/)|
 
 邀請中:
 
