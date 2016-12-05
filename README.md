@@ -2,7 +2,7 @@
 
 Rails Taichung 是每週一次的台中 Rails 同好分享聚會
 
-主題包含 Javascript, Ruby on Rails, HTML, CSS, Devops, web tools, library
+主題包含 Javascript, Ruby on Rails, HTML, CSS, Devops, web tools, library
 
 每週將邀請2位講者、2個主題，每位30分鐘~1小時 ( 含Q&A )
 
